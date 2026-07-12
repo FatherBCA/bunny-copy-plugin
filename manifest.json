@@ -1,0 +1,7 @@
+{
+  "name": "Tap To Copy Message",
+  "description": "Instantly copies any chat message text directly to your clipboard with a single tap.",
+  "author": "Dev",
+  "version": "1.0.0",
+  "main": "index.js"
+}
